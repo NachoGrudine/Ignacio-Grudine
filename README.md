@@ -28,4 +28,4 @@ Soy un estudiante avanzado de la Tecnicatura en Programación en la UTN de Córd
 
 ### Git & Github
 
-![image.png](image.png)
+![image.png](Certificado-Git-Github-Udemy.png)
