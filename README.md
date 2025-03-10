@@ -1,5 +1,3 @@
-# Github Personal
-
 # Ignacio Grudine
 
 **Desarrollador de software** 
