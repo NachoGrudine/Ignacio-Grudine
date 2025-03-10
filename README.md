@@ -1,3 +1,5 @@
+# Github Personal
+
 # Ignacio Grudine
 
 **Desarrollador de software** 
@@ -29,3 +31,13 @@ Soy un estudiante avanzado de la Tecnicatura en Programación en la UTN de Córd
 ### Git & Github
 
 ![image.png](Certificado-Git-Github-Udemy.png)
+
+## Contacto :
+
+<aside>
+
+Email : [Ignaciogrudine0@gmail.com](mailto:Ignaciogrudine0@gmail.com) 
+
+LinkedIn : [linkedin.com/in/ignacio-grudine-580283323](https://www.linkedin.com/in/ignacio-grudine-580283323)
+
+</aside>
