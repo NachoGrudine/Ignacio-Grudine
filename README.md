@@ -34,7 +34,7 @@ Soy un estudiante avanzado de la Tecnicatura en Programación en la UTN de Córd
 
 <aside>
 
-Email : [Ignaciogrudine0@gmail.com](mailto:Ignaciogrudine0@gmail.com) 
+Gmail : [Ignaciogrudine0@gmail.com](mailto:Ignaciogrudine0@gmail.com) 
 
 LinkedIn : [linkedin.com/in/ignacio-grudine-580283323](https://www.linkedin.com/in/ignacio-grudine-580283323)
 
